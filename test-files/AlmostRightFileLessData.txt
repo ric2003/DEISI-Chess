@@ -1,0 +1,25 @@
+8
+16
+1:0:10:O Poderoso Chefao
+2:8:10:A Dama Selvagem
+3:8:10
+4:8:10:Amante de Praia:5:4
+5:8:10:Artolas:5:4
+6:8:10
+7:8:10:Hommie:5:4
+8:8:10:O Beberolas:5:4
+9:0:20:Chefe dos Indios:5:4
+10:8:20:A Barulhenta do Bairro:5:4
+11:8:20:My Little Pony:5:4
+12:8:20:Padreco:5:4
+13:8:20:Torre Poderosa:5:4
+14:8:20:Torre Trapalhona:5:4
+15:8:20
+16:8:20:O Bobo da Corte:5:4
+1:2:3:4:5:6:7:8:5:4
+0:0:0:0:0:0:0:0:5:4
+0:0:0:0:0:0:0:0:5:4
+0:0:0:0:0:0:0:0:5:4
+0:0:0:0:0:0:0:0:5:4
+0:0:0:0:0:0:0:0:5:4
+0:0:0:0:0:0:

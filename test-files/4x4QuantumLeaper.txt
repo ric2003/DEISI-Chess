@@ -1,0 +1,12 @@
+4
+6
+1:0:10:Chefe
+2:8:10:Selvagem
+3:8:10:Grande Artista
+4:8:10:O Maior
+5:8:20:O Amigo
+6:0:20:O Beberolas
+2:3:4:5
+0:0:0:0
+0:0:0:0
+0:0:1:6

@@ -1,0 +1,25 @@
+10
+13
+1:0:10:O Poderoso Chefao
+2:0:20:A Dama Selvagem
+3:1:10:O Grande Artista
+4:1:20:Amante de Praia
+5:1:10:Artolas
+6:1:20:O Maior Grande
+7:1:10:Hommie
+8:1:20:O Beberolas
+9:1:10:Chefe dos Indios
+10:1:20:A Barulhenta do Bairro
+11:1:10:My Little Pony
+12:1:20:Padreco
+13:1:20:kkk
+4:5:6:7:8:9:10:11:12:3
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:0:0
+0:0:0:0:0:0:0:0:1:0
+0:0:0:0:0:0:0:0:13:2
